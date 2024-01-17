@@ -66,15 +66,6 @@ For a detailed report and interactive analysis, refer to the [U.S. Healthcare Dy
 
 ---
 
-## Usage
-
-
-
- **Open the Power BI file:**
-   ```bash
-   cd US-Healthcare-Analytics-PowerBI-Insights
-   ```
-   Open `US_Healthcare_Insights_Hub.pbix` using Power BI Desktop.
 
 3. **Explore the Insights and Findings Interactively.**
 
