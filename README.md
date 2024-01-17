@@ -31,32 +31,31 @@ This project intricately analyzes the U.S. healthcare landscape from 2019 to 202
 ## Insights
 
 ### Executive Summary
-image.png
-
+![executive_summary](https://github.com/ashishy7/US-Healthcare-Analytics-PowerBI/blob/main/assets/executive_summary.jpg) 
 This section provides a concise yet comprehensive summary of key insights and findings derived from the analysis of the U.S. healthcare industry for the years 2019-2020.
 
 ---
 
 ### Hospital Insights
-
+![Hospital Insights](https://github.com/ashishy7/US-Healthcare-Analytics-PowerBI/blob/main/assets/hospital_insights.jpg)
 Explore comprehensive analyses of hospital performance, including metrics on patient admissions, discharge rates, and overall hospital efficiency. Gain strategic perspectives for healthcare administrators.
 
 ---
 
 ### Patient Outcome Analysis
-
+![Patient Outcome Analysis](https://github.com/ashishy7/US-Healthcare-Analytics-PowerBI/blob/main/assets/patient_outcome_analysis.jpg)
 Examination of patient-related data and outcomes: This image presents an exploration of patient-related data, revealing actionable insights for improved patient care. Topics include patient demographics, treatment efficacy, and potential areas for enhanced medical interventions.
 
 ---
 
 ### Healthcare Provider Metrics
-
+![Healthcare Provider Metrics](https://github.com/ashishy7/US-Healthcare-Analytics-PowerBI/blob/main/assets/healthcare_provider_metrics.jpg)
 In-depth analysis and metrics for payer-provider relationships: This image showcases detailed metrics and analyses related to the relationships between healthcare providers and payers, offering insights crucial for optimizing the healthcare provider landscape.
 
 ---
 
 ### Healthcare ERD
-
+![Healthcare ERD](https://github.com/ashishy7/US-Healthcare-Analytics-PowerBI/blob/main/assets/er-diagram.png)
 Entity Relationship Diagram illustrating data structure and relationships: Gain a deeper understanding of the underlying data architecture through the Entity Relationship Diagram (ERD). This visual representation showcases the relationships within the healthcare analytics project.
 
 
@@ -66,12 +65,23 @@ For a detailed report and interactive analysis, refer to the [U.S. Healthcare Dy
 
 ---
 
+## Usage
 
-3. **Explore the Insights and Findings Interactively.**
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/US-Healthcare-Analytics-PowerBI-Insights.git
+   ```
 
-## Contributing
+2. **Open the Power BI file:**
+   ```bash
+   cd US-Healthcare-Analytics-PowerBI
+   ```
+   Open `US_Healthcare_Insights_Hub.pbix` using Power BI Desktop.
 
-Find issues, suggest enhancements, or contribute to the project by opening an [issue](https://github.com/your-username/US-Healthcare-Analytics-PowerBI-Insights/issues) or submitting a [pull request](https://github.com/your-username/US-Healthcare-Analytics-PowerBI-Insights/pulls).
 
 
+---
+
+### Author
+#### [Ashish Yadav](https://www.linkedin.com/in/ashish-yadav-utd/)
 
